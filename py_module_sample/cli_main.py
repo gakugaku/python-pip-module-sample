@@ -1,9 +1,9 @@
-from world import world
 import hello
+import world
 
 
 def main():
-    print(hello.hello(), world.hello())
+    print(hello.hello(), world.world())
 
 
 if __name__ == '__main__':
